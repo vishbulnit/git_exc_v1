@@ -6,4 +6,3 @@ git remove add origin "<git repo path>"
 git remote -v
 git status
 git branch
-
