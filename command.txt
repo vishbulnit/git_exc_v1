@@ -1,0 +1,9 @@
+command
+
+git init
+git remote -v
+git remove add origin "<git repo path>"
+git remote -v
+git status
+git branch
+
